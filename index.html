@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Sticker shock: Prescription drug prices in the US vs the world</title>
+    <link href='https://fonts.googleapis.com/css?family=Helvetica Neue' rel='stylesheet'>
+    <script src="https://kit.fontawesome.com/6630dd9732.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="Images/pill.png">
+    <style>
+        body {
+            font-family: "Helvetica Neue", serif; 
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+        }
+        .page-container {
+            background-color: #000; 
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h1 {
+            font-family: 'PT Serif', serif; 
+            font-size: 30px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        h2 { 
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #333;
+            padding-top: 20px;
+            padding-right: 20px;
+        }
+        .byline {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #777;
+        }
+        .featured-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .caption {
+            font-style: italic;
+            font-size: 14px;
+            margin-bottom: 10px;
+            color: #777;
+        }
+        .first-para-text {
+            color: #333;
+        }
+        .article-text {
+            color: #333;
+        }
+        .blurb-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: -10px;
+    border: 2px solid #51ACEC; /* border color */
+    border-radius: 8px; /* add rounded corners */
+}
+
+.blurb-line {
+    width: 4px;
+    height: 100%;
+    background-color: #51ACEC; /* border color */
+    margin-right: 10px;
+}
+
+.blurb-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333; /* black color */
+    margin-left: 10px;
+    padding: 5px; /* increase padding for a sleek look */
+    border-radius: 6px; /* adjust border radius to match the container */
+    background-color: #fff; /* white background */
+}
+
+    .first-para-text p:first-of-type::first-letter {
+        float: left;
+        font-size: 6em;
+        line-height: 0.5; 
+        padding-top: 2px;
+        padding-right: 5px;
+        }
+        ul {
+            margin: 0;
+            padding-bottom: 2em;
+            line-height: 1.6;
+        }
+        /* margin on mobile */
+        @media (max-width: 640px) {
+            body {
+                font-size: 18px;
+            }
+            .content {
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+            }
+        }
+
+        iframe {
+            padding-bottom: 1.2em;
+        }
+        
+        * {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #111010;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+    </style>
+</head>
+<body>
+    <div class="page-container">
+    <div class="container">
+        <button class="btn"> <a href="https://radhika3558.github.io/" style="color:inherit;text-decoration:none;"
+            ><i class="fa fa-home"></i> Home</button>
+        <h1>Sticker shock: Prescription drug prices in the US vs the world</h1>
+        <p class="byline">By Radhika Rukmangadhan</p>
+        <img src="Images/Firefly Create an image of pills on a blue background with money 2807.jpg" alt="AI generated image of pills" class="featured-image">
+        <p>TK.</p>
+        <div class="graphic">
+            <iframe title="Drug Prices: India vs. US" aria-label="Dot Plot" id="datawrapper-chart-yn8OH" src="https://datawrapper.dwcdn.net/yn8OH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="313" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+            </script>
+        </div>
+        <p>TK TK</p>
+        <div class="graphic">
+            <!-- Slideshow container -->
+<div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+      <div class="numbertext">1 / 5</div>
+      <iframe title="Enbrel (Etanercept)" aria-label="Scatter Plot" id="datawrapper-chart-7JBFf" src="https://datawrapper.dwcdn.net/7JBFf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="277" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+      </script>
+      
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext">2 / 5</div>
+      <iframe title="Xarelto (Rivaroxaban) " aria-label="Scatter Plot" id="datawrapper-chart-6A4WZ" src="https://datawrapper.dwcdn.net/6A4WZ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="277" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+      </script>
+      
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext">3 / 5</div>
+      <iframe title="Humira Pen (Adalimumab) " aria-label="Scatter Plot" id="datawrapper-chart-GfqXT" src="https://datawrapper.dwcdn.net/GfqXT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="277" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+      </script>
+      
+    </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext">4 / 5</div>
+        <iframe title="Victoza 3-Pak (Liraglutide)" aria-label="Scatter Plot" id="datawrapper-chart-nAotA" src="https://datawrapper.dwcdn.net/nAotA/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="277" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+        </script>
+        
+      </div>
+  
+     <div class="mySlides fade">
+        <div class="numbertext">5 / 5</div>
+        <iframe title="Xeljanz (Tofacitinib Citrate) " aria-label="Scatter Plot" id="datawrapper-chart-UN8Bk" src="https://datawrapper.dwcdn.net/UN8Bk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="277" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+        </script>
+        
+      </div>
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  <br>
+  
+  <!-- The dots/circles -->
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span> 
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+  </div>
+        </div>
+    </div>
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+        
+        function plusSlides(n) {
+          showSlides(slideIndex += n);
+        }
+        
+        function currentSlide(n) {
+          showSlides(slideIndex = n);
+        }
+        
+        function showSlides(n) {
+          let i;
+          let slides = document.getElementsByClassName("mySlides");
+          let dots = document.getElementsByClassName("dot");
+          if (n > slides.length) {slideIndex = 1}    
+          if (n < 1) {slideIndex = slides.length}
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+          }
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+        }
+        </script>
+</div>
+    <div id="footer" class="text-center">
+            <p class="lead" style="font-size: 1.25rem;">
+                <span style="color:rgb(16, 106, 231);font-weight:bold;">
+                    <a class="button" href="https://github.com/radhika3558" style="color:inherit;text-decoration:none;">
+                        <i class="fab fa-github"></i>
+                        GitHub
+                    </a>
+                </span>
+                <span style="color:rgb(16, 106, 231);font-weight:bold;">
+                    <a class="button" href="https://www.linkedin.com/in/radhikarukmangadhan/"
+                        style="color:inherit;text-decoration:none;"> <i class="fab fa-linkedin"></i>
+                        LinkedIn
+                    </a>
+                </span>
+                <span style="color:rgb(16, 106, 231);font-weight:bold;">
+                    <a class="button" href="mailto:radhika.rukmangadhan[at]gmail.com"
+                        style="color:inherit;text-decoration:none;"> <i class="fa-solid fa-envelope"></i>
+                        Email
+                    </a>
+                </span>
+            </p>
+            <p>© 2024 - Radhika Rukmangadhan</p>
+        </div>
+    </div>
+</html>

@@ -1,0 +1,226 @@
+Year,Service Category,Service Type,Service,Country,Price 2017 USD,Percent of US Price
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,USA,"15,155.0",1
+2017,Medical,Hospital Admissions,Bypass Surgery ,USA,"78,104.0",1
+2017,Medical,Hospital Admissions,C Section,USA,"15,034.0",1
+2017,Medical,Hospital Admissions,Normal Delivery,USA,"11,167.0",1
+2017,Medical,Hospital Admissions,Angioplasty,USA,"32,229.0",1
+2017,Medical,Hospital Admissions,Knee Replacement,USA,"29,583.0",1
+2017,Medical,Hospital Admissions,Hip Replacement,USA,"32,524.0",1
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,USA,"13,022.0",1
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),USA,"2,414.0",1
+2017,Medical,Physician/Outpatient Services,Angiogram,USA,"1,267.0",1
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,USA,"7,088.0",1
+2017,Medical,Physician/Outpatient Services,Colonscopy,USA,"2,874.0",1
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,USA,"1,100.0",1
+2017,Medical,Physician/Outpatient Services,MRI Scan,USA,"1,432.0",1
+2017,Drug,Administered Drugs,Immune globulin injection,USA,97.1,1
+2017,Drug,Administered Drugs,Factor VIII,USA,2.5,1
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,USA,87.5,1
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,USA,210.8,1
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,USA,"3,857.0",1
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,USA,"4,481.0",1
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,USA,766.0,1
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),USA,379.0,1
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,USA,"23,874.0",1
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,USA,"4,635.0",1
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,USA,"31,618.0",1
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,South Africa,"3,161.1",0.208587093
+2017,Medical,Hospital Admissions,Bypass Surgery ,South Africa,"30,609.8",0.391911264
+2017,Medical,Hospital Admissions,C Section,South Africa,"3,241.1",0.21558581
+2017,Medical,Hospital Admissions,Normal Delivery,South Africa,"1,875.4",0.167943949
+2017,Medical,Hospital Admissions,Angioplasty,South Africa,"9,034.8",0.280332287
+2017,Medical,Hospital Admissions,Knee Replacement,South Africa,"10,462.6",0.353670491
+2017,Medical,Hospital Admissions,Hip Replacement,South Africa,"10,495.1",0.322688036
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,South Africa,"3,106.5",0.238556889
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),South Africa,"2,051.0",0.849623807
+2017,Medical,Physician/Outpatient Services,Angiogram,South Africa,709.8,0.560243453
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,South Africa,"2,915.3",0.411297923
+2017,Medical,Physician/Outpatient Services,Colonscopy,South Africa,566.1,0.196977386
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,South Africa,625.9,0.568957871
+2017,Medical,Physician/Outpatient Services,MRI Scan,South Africa,497.8,0.34764046
+2017,Drug,Administered Drugs,Immune globulin injection,South Africa,77.5,0.798333467
+2017,Drug,Administered Drugs,Factor VIII,South Africa,0.3,0.107972621
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,South Africa,6.4,0.073436591
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,South Africa,43.5,0.206451613
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,South Africa,"1,134.0",0.294010889
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,South Africa,737.6,0.164597406
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,South Africa,174.0,0.227154047
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),South Africa,75.0,0.197889182
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,South Africa,,
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,South Africa,708.0,0.152750809
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,South Africa,"4,844.0",0.153203871
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,Holland,"6,020.8",0.397283625
+2017,Medical,Hospital Admissions,Bypass Surgery ,Holland,"11,673.1",0.149455854
+2017,Medical,Hospital Admissions,C Section,Holland,"5,304.2",0.352811405
+2017,Medical,Hospital Admissions,Normal Delivery,Holland,"3,637.5",0.325736545
+2017,Medical,Hospital Admissions,Angioplasty,Holland,"6,385.8",0.198139357
+2017,Medical,Hospital Admissions,Knee Replacement,Holland,"7,507.5",0.253776662
+2017,Medical,Hospital Admissions,Hip Replacement,Holland,"6,940.6",0.213399336
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,Holland,"3,405.0",0.261480571
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),Holland,869.2,0.360052472
+2017,Medical,Physician/Outpatient Services,Angiogram,Holland,143.6,0.113318863
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,Holland,,
+2017,Medical,Physician/Outpatient Services,Colonscopy,Holland,708.3,0.246462538
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,Holland,139.7,0.126992424
+2017,Medical,Physician/Outpatient Services,MRI Scan,Holland,193.2,0.134881285
+2017,Drug,Administered Drugs,Immune globulin injection,Holland,16.7,0.171609006
+2017,Drug,Administered Drugs,Factor VIII,Holland,0.6,0.250329381
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,Holland,31.4,0.358449577
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,Holland,24.3,0.115393738
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,Holland,670.0,0.173699335
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,Holland,782.7,0.174663394
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,Holland,120.2,0.156940818
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),Holland,58.9,0.155518909
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,Holland,"15,860.3",0.66433149
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,Holland,773.3,0.166846458
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,Holland,"12,777.5",0.40412107
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,Australia,"4,246.2",0.280182382
+2017,Medical,Hospital Admissions,Bypass Surgery ,Australia,"35,800.1",0.458363848
+2017,Medical,Hospital Admissions,C Section,Australia,"8,358.8",0.555995663
+2017,Medical,Hospital Admissions,Normal Delivery,Australia,"6,088.6",0.545235157
+2017,Medical,Hospital Admissions,Angioplasty,Australia,"14,667.0",0.455085916
+2017,Medical,Hospital Admissions,Knee Replacement,Australia,"18,556.7",0.627274719
+2017,Medical,Hospital Admissions,Hip Replacement,Australia,"20,934.3",0.643658283
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,Australia,,
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),Australia,,
+2017,Medical,Physician/Outpatient Services,Angiogram,Australia,,
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,Australia,,
+2017,Medical,Physician/Outpatient Services,Colonscopy,Australia,,
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,Australia,,
+2017,Medical,Physician/Outpatient Services,MRI Scan,Australia,,
+2017,Drug,Administered Drugs,Immune globulin injection,Australia,,
+2017,Drug,Administered Drugs,Factor VIII,Australia,,
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,Australia,,
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,Australia,,
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,Australia,,
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,Australia,,
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,Australia,,
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),Australia,,
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,Australia,,
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,Australia,,
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,Australia,,
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,Switzerland,"6,208.0",0.409633784
+2017,Medical,Hospital Admissions,Bypass Surgery ,Switzerland,"32,010.0",0.409838164
+2017,Medical,Hospital Admissions,C Section,Switzerland,"7,517.5",0.500033258
+2017,Medical,Hospital Admissions,Normal Delivery,Switzerland,"5,141.0",0.460374317
+2017,Medical,Hospital Admissions,Angioplasty,Switzerland,"7,372.0",0.228738093
+2017,Medical,Hospital Admissions,Knee Replacement,Switzerland,"18,333.0",0.619714025
+2017,Medical,Hospital Admissions,Hip Replacement,Switzerland,"15,617.0",0.480168491
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,Switzerland,,
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),Switzerland,"1,843.0",0.763463132
+2017,Medical,Physician/Outpatient Services,Angiogram,Switzerland,358.9,0.283267561
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,Switzerland,"1,552.0",0.218961625
+2017,Medical,Physician/Outpatient Services,Colonscopy,Switzerland,582.0,0.202505219
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,Switzerland,329.8,0.299818182
+2017,Medical,Physician/Outpatient Services,MRI Scan,Switzerland,310.4,0.216759777
+2017,Drug,Administered Drugs,Immune globulin injection,Switzerland,33.0,0.339579901
+2017,Drug,Administered Drugs,Factor VIII,Switzerland,0.9,0.352727273
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,Switzerland,23.3,0.266178825
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,Switzerland,47.3,0.224416034
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,Switzerland,"1,326.4",0.343903604
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,Switzerland,"1,227.3",0.273881589
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,Switzerland,170.1,0.222048956
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),Switzerland,77.1,0.203495251
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,Switzerland,"21,340.0",0.893859429
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,Switzerland,"1,565.7",0.337806947
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,Switzerland,"13,613.4",0.430558144
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,New Zealand,"6,714.5",0.443053118
+2017,Medical,Hospital Admissions,Bypass Surgery ,New Zealand,"37,772.7",0.483620685
+2017,Medical,Hospital Admissions,C Section,New Zealand,,
+2017,Medical,Hospital Admissions,Normal Delivery,New Zealand,,
+2017,Medical,Hospital Admissions,Angioplasty,New Zealand,"16,493.3",0.51175339
+2017,Medical,Hospital Admissions,Knee Replacement,New Zealand,"17,639.2",0.596262718
+2017,Medical,Hospital Admissions,Hip Replacement,New Zealand,"16,603.4",0.510495327
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,New Zealand,"6,714.5",0.515625096
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),New Zealand,"3,002.6",1.243823529
+2017,Medical,Physician/Outpatient Services,Angiogram,New Zealand,"1,228.3",0.969455406
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,New Zealand,,
+2017,Medical,Physician/Outpatient Services,Colonscopy,New Zealand,"1,540.7",0.536082116
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,New Zealand,575.1,0.522818182
+2017,Medical,Physician/Outpatient Services,MRI Scan,New Zealand,752.6,0.525558659
+2017,Drug,Administered Drugs,Immune globulin injection,New Zealand,,
+2017,Drug,Administered Drugs,Factor VIII,New Zealand,,
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,New Zealand,,
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,New Zealand,,
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,New Zealand,,
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,New Zealand,,
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,New Zealand,,
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),New Zealand,,
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,New Zealand,,
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,New Zealand,,
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,New Zealand,,
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,UAE,"4,242.0",0.279906939
+2017,Medical,Hospital Admissions,Bypass Surgery ,UAE,"33,059.3",0.423272846
+2017,Medical,Hospital Admissions,C Section,UAE,"4,376.6",0.291114473
+2017,Medical,Hospital Admissions,Normal Delivery,UAE,"3,091.1",0.276805344
+2017,Medical,Hospital Admissions,Angioplasty,UAE,"11,861.0",0.368022027
+2017,Medical,Hospital Admissions,Knee Replacement,UAE,"20,930.2",0.707508791
+2017,Medical,Hospital Admissions,Hip Replacement,UAE,"22,480.6",0.691200964
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,UAE,"1,156.8",0.088837932
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),UAE,"1,489.9",0.617200696
+2017,Medical,Physician/Outpatient Services,Angiogram,UAE,439.8,0.347113877
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,UAE,"2,105.7",0.29707742
+2017,Medical,Physician/Outpatient Services,Colonscopy,UAE,588.1,0.204632462
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,UAE,314.2,0.285647169
+2017,Medical,Physician/Outpatient Services,MRI Scan,UAE,454.5,0.317403606
+2017,Drug,Administered Drugs,Immune globulin injection,UAE,50.5,0.519975288
+2017,Drug,Administered Drugs,Factor VIII,UAE,1.1,0.431874724
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,UAE,56.4,0.644716682
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,UAE,75.6,0.358695821
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,UAE,"1,382.0",0.358309567
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,UAE,"1,970.7",0.43979211
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,UAE,279.6,0.3649661
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),UAE,133.9,0.353360701
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,UAE,"32,739.2",1.371334383
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,UAE,"1,536.1",0.331413925
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,UAE,"24,711.7",0.78157115
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,Germany,,
+2017,Medical,Hospital Admissions,Bypass Surgery ,Germany,,
+2017,Medical,Hospital Admissions,C Section,Germany,,
+2017,Medical,Hospital Admissions,Normal Delivery,Germany,,
+2017,Medical,Hospital Admissions,Angioplasty,Germany,,
+2017,Medical,Hospital Admissions,Knee Replacement,Germany,,
+2017,Medical,Hospital Admissions,Hip Replacement,Germany,,
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,Germany,,
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),Germany,,
+2017,Medical,Physician/Outpatient Services,Angiogram,Germany,,
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,Germany,,
+2017,Medical,Physician/Outpatient Services,Colonscopy,Germany,,
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,Germany,,
+2017,Medical,Physician/Outpatient Services,MRI Scan,Germany,,
+2017,Drug,Administered Drugs,Immune globulin injection,Germany,40.8,0.419755629
+2017,Drug,Administered Drugs,Factor VIII,Germany,0.9,0.339262187
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,Germany,27.3,0.31195213
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,Germany,47.5,0.225332068
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,Germany,"2,544.8",0.6597874
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,Germany,"1,565.0",0.349252399
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,Germany,273.4,0.356962576
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),Germany,107.1,0.28269569
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,Germany,"17,781.1",0.744788961
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,Germany,"2,269.9",0.489739302
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,Germany,"14,565.6",0.460674299
+2017,Medical,Hospital Admissions,Inpatient Appendectomy ,UK,"5,097.6",0.336364236
+2017,Medical,Hospital Admissions,Bypass Surgery ,UK,"24,440.4",0.312921233
+2017,Medical,Hospital Admissions,C Section,UK,"7,080.8",0.47098244
+2017,Medical,Hospital Admissions,Normal Delivery,UK,"9,008.6",0.80671174
+2017,Medical,Hospital Admissions,Angioplasty,UK,"11,661.3",0.361826306
+2017,Medical,Hospital Admissions,Knee Replacement,UK,"12,659.0",0.427912991
+2017,Medical,Hospital Admissions,Hip Replacement,UK,"12,175.7",0.374358935
+2017,Medical,Physician/Outpatient Services,OP Appendectomy ,UK,"3,049.7",0.234192136
+2017,Medical,Physician/Outpatient Services,Cataract Surgery (single visit),UK,,
+2017,Medical,Physician/Outpatient Services,Angiogram,UK,610.2,0.481610103
+2017,Medical,Physician/Outpatient Services,Cardiac Catheterization,UK,"2,446.2",0.34511851
+2017,Medical,Physician/Outpatient Services,Colonscopy,UK,"1,935.9",0.673590814
+2017,Medical,Physician/Outpatient Services,CT  Scan Abdomen,UK,472.5,0.429545455
+2017,Medical,Physician/Outpatient Services,MRI Scan,UK,452.3,0.315817039
+2017,Drug,Administered Drugs,Immune globulin injection,UK,27.4,0.282253913
+2017,Drug,Administered Drugs,Factor VIII,UK,0.9,0.36201581
+2017,Drug,Administered Drugs,Keytruda (Pembrolizumab) ,UK,33.9,0.387914475
+2017,Drug,Administered Drugs,Herceptin (Trastuzumab) ,UK,132.7,0.629395161
+2017,Drug,Prescription Drugs,Xeljanz (Tofacitinib Citrate) ,UK,890.1,0.230785248
+2017,Drug,Prescription Drugs,Humira Pen (Adalimumab) ,UK,856.0,0.191038607
+2017,Drug,Prescription Drugs,Victoza 3-Pak (Liraglutide) ,UK,151.9,0.198249086
+2017,Drug,Prescription Drugs,Xarelto (Rivaroxaban),UK,65.0,0.171546174
+2017,Drug,Prescription Drugs,Kalydeco (Ivacaftor) ,UK,"18,060.0",0.756471475
+2017,Drug,Prescription Drugs,Enbrel (Etanercept) ,UK,922.4,0.198996764
+2017,Drug,Prescription Drugs,Harvoni (Ledipasvir/Sofosbuvir) ,UK,"16,761.4",0.530121946
